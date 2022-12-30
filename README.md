@@ -11,5 +11,5 @@
 #### Мои контакты:
 
 - Mob: +79655223186
-- Telegram: @rromanToFuture 
+- Telegram: [Rroman](https://t.me/rromanToFuture)
 - Email: rudachenko93@mail.ru
