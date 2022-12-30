@@ -2,7 +2,7 @@
 
 #### Вот что я умею:
 - [Мини-проект "ChatService" (Kotlin)](https://github.com/justNotOnMyShift/chat-service)
-
+- [Мини-проект "NoteService" (Kotlin)](https://github.com/justNotOnMyShift/note-service)
 
 #### Дипломы:
 
