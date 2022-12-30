@@ -1,7 +1,7 @@
 ### Всем привет! Я Рудаченко Роман, Android-разработчик на Kotlin со знанием Java
 
 #### Вот что я умею:
-
+- [Мини-проект "ChatService" (Kotlin)](https://github.com/justNotOnMyShift/chat-service)
 
 
 #### Дипломы:
