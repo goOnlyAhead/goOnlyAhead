@@ -9,7 +9,7 @@
 
 #### Дипломы:
 
-
+- [Android-разработчик](https://github.com/justNotOnMyShift/android-developer-diplom)
 
 #### Мои контакты:
 
