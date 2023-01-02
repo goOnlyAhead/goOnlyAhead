@@ -4,8 +4,8 @@
 - [Мини-проект "ChatService" (Kotlin)](https://github.com/justNotOnMyShift/chat-service)
 - [Мини-проект "NoteService" (Kotlin)](https://github.com/justNotOnMyShift/note-service)
 - [Задачки для решения (Java & Kotlin)](https://github.com/justNotOnMyShift?tab=repositories)
-- [Создание первого приложения](https://github.com/justNotOnMyShift/first-app-and)
-- [Создание книги рецептов](https://github.com/justNotOnMyShift/NeRecipe)
+- [Приложение "Посты" (Kotlin, Android)](https://github.com/justNotOnMyShift/first-app-and)
+- [Книга рецептов (Kotlin, Android)](https://github.com/justNotOnMyShift/NeRecipe)
 
 #### Дипломы:
 
