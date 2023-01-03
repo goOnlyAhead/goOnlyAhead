@@ -14,5 +14,5 @@
 #### Мои контакты:
 
 - Mob: +79655223186
-- Telegram:(https://t.me/goOnlyAhead)
+- Telegram:[goOnlyAhead](https://t.me/goOnlyAhead)
 - Email: rudachenko93@mail.ru
